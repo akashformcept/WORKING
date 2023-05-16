@@ -4,5 +4,8 @@
 (defn -main
   "I don't do a whole lot ... yet."
   [& args]
-  (println "Hello, World!Welcome to clojure")
-  (println (+ 12)))
+  (println "Hello World!")
+  (println "Welcome to clojure") 
+  (println (+ 1 2))
+  (println (+ 4 5 6)))  
+
