@@ -6,8 +6,7 @@
   [& args]
   (println "Hello World!")
   (println "Welcome to clojure") 
-  (println (+ 1 2))
-  (println (+ 4 5 6)))  
+  (println (+ 1 2)))  
 
 
 heloo formcept
