@@ -6,6 +6,7 @@
   [& args]
   (println "Hello World!")
   (println "Welcome to clojure") 
+(println "enter the number")
   (println (+ 1 2))
   (println (+ 3 4 5)))
 
