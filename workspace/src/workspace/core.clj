@@ -7,7 +7,7 @@
   (println "Hello World!")
   (println "Welcome to clojure") 
   (println (+ 1 2))
-  (println "Enter the number")
-  (println (+ 3 4 5)))  
+  (println (+ 3 4 5)))
+
 
 
