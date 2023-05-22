@@ -7,3 +7,5 @@
   :main ^:skip-aot workspace.core
   :target-path "target/%s"
   :profiles {:uberjar {:aot :all}})
+iam mahesh
+
